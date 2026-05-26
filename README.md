@@ -315,12 +315,6 @@ Medical disclaimer
 
 ## GitHub Activity
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YehanN-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1026&title_color=A855F7&icon_color=14B8A6&text_color=FFFFFF" width="48%" alt="Yehan GitHub stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YehanN-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1026&title_color=A855F7&text_color=FFFFFF" width="36%" alt="Yehan top languages" />
-
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=YehanN-dev&theme=tokyonight&hide_border=true&background=0B1026&ring=A855F7&fire=F59E0B&currStreakLabel=14B8A6" width="70%" alt="Yehan GitHub streak" />
