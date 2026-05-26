@@ -20,7 +20,7 @@
 
 <img align="right" src="./assets/profile_visual.png" width="315" alt="Yehan Namarathna profile visual" />
 
-## Hey, I’m Yehan 🌸
+## Hey Mate, I’m Yehan... ✨
 
 I am a **BSc (Hons) Computer Science undergraduate** at **NSBM Green University**, affiliated with the **University of Plymouth**.
 
