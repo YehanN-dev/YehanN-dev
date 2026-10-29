@@ -22,7 +22,7 @@
 
 ## Hey Mate, I’m Yehan... ✨
 
-I am a **BSc (Hons) Computer Science undergraduate** at **NSBM Green University**, affiliated with the **University of Plymouth**.
+I am a **BSc (Hons) Computer Science Graduate** with **First Class Honours** from the **University of Plymouth, UK**.
 
 My strongest direction sits at the intersection of **artificial intelligence, machine learning, medical AI, dermatology technology, computer vision, explainable AI, data science, software development, workflow automation, and human centred digital systems**.
 
